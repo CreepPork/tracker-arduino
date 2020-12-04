@@ -57,6 +57,7 @@ void send_gps_data()
         "/api/ingest",
         (String("")
             + "&secret=" + TRACKER_SECRET
+            + "&device=" + TRACKER_DEVICE_ID
             + "&latitude=" + latitude
             + "&longitude=" + longitude
             + "&speed=" + speed
