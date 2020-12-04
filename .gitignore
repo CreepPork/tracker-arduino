@@ -33,3 +33,4 @@
 
 # Project ignores
 secrets.hpp
+build/
