@@ -1,0 +1,6 @@
+[submodule "vendor/TinyGSM"]
+	path = vendor/TinyGSM
+	url = https://github.com/vshymanskyy/TinyGSM/
+[submodule "vendor/TinyGPSPlus"]
+	path = vendor/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus/

@@ -1,5 +1,7 @@
 {
     "port": "/dev/ttyACM0",
     "board": "arduino:avr:uno",
-    "programmer": "AVR ISP"
+    "programmer": "AVR ISP",
+    "sketch": "tracker.ino",
+    "output": "./build"
 }
